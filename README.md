@@ -1,1 +1,105 @@
-# presell-produto
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Descubra o Segredo Que Está Mudando Vidas</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: #fff;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      font-weight: normal;
+      color: #ddd;
+      margin-bottom: 30px;
+    }
+
+    .card {
+      background: #ffffff;
+      color: #333;
+      border-radius: 12px;
+      padding: 30px;
+      margin-top: 30px;
+      box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+    }
+
+    .card p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 18px 35px;
+      background: #ff9800;
+      color: #000;
+      text-decoration: none;
+      font-size: 20px;
+      font-weight: bold;
+      border-radius: 50px;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background: #ffc107;
+      transform: scale(1.05);
+    }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #ccc;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>⚠️ Atenção: Isso Não é Para Todos</h1>
+    <h2>Descubra o método que está ajudando pessoas comuns a transformar seus resultados</h2>
+
+    <div class="card">
+      <p>
+        Nos últimos meses, um método simples vem chamando atenção por entregar
+        resultados reais sem promessas milagrosas.
+      </p>
+
+      <p>
+        O mais curioso? Pouca gente está falando sobre isso.
+      </p>
+
+      <p>
+        Clique no botão abaixo e descubra como funciona enquanto ainda está disponível.
+      </p>
+
+      <a class="btn" href="SEU_LINK_DE_AFILIADO_AQUI" target="_blank">
+        🔥 Quero Descobrir Agora
+      </a>
+    </div>
+
+    <div class="footer">
+      © 2026 – Conteúdo informativo. Resultados podem variar.
+    </div>
+  </div>
+
+</body>
+</html>
